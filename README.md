@@ -14,6 +14,8 @@ a < b ? "a less than b": "b less than a";
 
 --> "a less than b"
 ```
+Also works with truth-y and false-y values.
+
 ### Multi-Line Comments
 Write multi-line comments following the Javascript block comment notation:
 ```
